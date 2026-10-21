@@ -1,60 +1,50 @@
 import { createFileRoute } from '@tanstack/react-router';
 
 import { envConfigs } from '@/config';
-import { m } from '@/paraglide/messages.js';
 import { getLocale, locales, localizeUrl } from '@/paraglide/runtime.js';
-import { Blog } from '@/blocks/blog';
-import { CTA } from '@/blocks/cta';
-import { FAQ } from '@/blocks/faq';
-import { Features } from '@/blocks/features';
-import { Footer } from '@/blocks/footer';
-import { Header } from '@/blocks/header';
-import { Hero } from '@/blocks/hero';
-import { Pricing } from '@/blocks/pricing';
-import { SupportWidget } from '@/blocks/support-widget';
-import { getBlogPostsFn } from '@/content/posts/server';
+import { Home } from '@/components/dreelio/components/Home';
+import {
+  interactionDefinitions,
+  motionDefinitions,
+} from '@/components/dreelio/components/Home/Home/Home.motion';
+import { MotionRuntime } from '@/components/dreelio/ui/MotionRuntime';
 
-/**
- * Default landing page — demo content. Rewrite this file (and the blocks in
- * src/blocks/) for your project. The primitives in src/components/ stay.
- * See /quick-start or /clone-website to automate the rewrite.
- */
+const TITLE = 'Dreelio - Framer Website Template for Founders';
+const DESCRIPTION =
+  'Simple, modern, and sleek. The Dreelio template is perfect for app creators, founders, and SaaS businesses who want a clean, eye-catching website that will convert visitors into customers.';
+
 function HomePage() {
-  const { posts } = Route.useLoaderData();
-
   return (
-    <div className="bg-background text-foreground flex min-h-screen flex-col">
-      <Header />
-      <main>
-        <Hero />
-        <Features />
-        <Pricing />
-        <FAQ />
-        <Blog posts={posts} />
-        <CTA />
-      </main>
-      <Footer />
-      <SupportWidget />
-    </div>
+    <>
+      <Home />
+      <MotionRuntime
+        definitions={motionDefinitions}
+        interactions={interactionDefinitions}
+      />
+    </>
   );
 }
 
 export const Route = createFileRoute('/')({
-  loader: async () => {
-    const locale = getLocale();
-    const posts = await getBlogPostsFn({ data: { locale, limit: 3 } });
-    return { locale, posts };
-  },
+  loader: () => ({ locale: getLocale() }),
   head: ({ loaderData }) => {
     const locale = loaderData?.locale ?? 'en';
     const urlFor = (loc: string) =>
       localizeUrl(`${envConfigs.app_url}/`, { locale: loc as any }).href;
+    const image = `${envConfigs.app_url}/dreelio/og.png`;
     return {
       meta: [
-        {
-          name: 'description',
-          content: m['landing.hero.subheadline']({}, { locale: locale as any }),
-        },
+        { title: TITLE },
+        { name: 'description', content: DESCRIPTION },
+        { property: 'og:title', content: TITLE },
+        { property: 'og:description', content: DESCRIPTION },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: urlFor(locale) },
+        { property: 'og:image', content: image },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:title', content: TITLE },
+        { name: 'twitter:description', content: DESCRIPTION },
+        { name: 'twitter:image', content: image },
       ],
       links: [
         { rel: 'canonical', href: urlFor(locale) },

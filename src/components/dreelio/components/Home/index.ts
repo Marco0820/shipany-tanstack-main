@@ -1,0 +1,14 @@
+export { Home } from './Home';
+export { Tasks } from './Tasks';
+export { Invoicing } from './Invoicing';
+export { DesktopPrimary } from './DesktopPrimary';
+export { Hero } from './Hero';
+export { LogosTicker } from './LogosTicker';
+export { AboutApp } from './AboutApp';
+export { Features } from './Features';
+export { Benefits } from './Benefits';
+export { Reviews } from './Reviews';
+export { Pricing22 } from './Pricing22';
+export { Blog } from './Blog';
+export { Community2 } from './Community2';
+export { Footer } from './Footer';

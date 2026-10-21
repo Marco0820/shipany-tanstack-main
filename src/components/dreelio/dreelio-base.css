@@ -1,0 +1,485 @@
+/* Homepage-only Dreelio styles. Selectors are scoped so the rest of the app keeps its own theme. */
+
+@font-face {
+  font-family: 'Fragment Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/4iCr6K5wfMRRjxp0DA6-2CLnB45HhrUI-e94a0781c7.woff2')
+    format('woff2');
+  unicode-range:
+    U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'Fragment Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/4iCr6K5wfMRRjxp0DA6-2CLnB41HhrUI-96ad20c2b4.woff2')
+    format('woff2');
+  unicode-range:
+    U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329,
+    U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4,
+    U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Fragment Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/4iCr6K5wfMRRjxp0DA6-2CLnB4NHhg-321275ae59.woff2')
+    format('woff2');
+  unicode-range:
+    U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308,
+    U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF,
+    U+FFFD;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ-197dd74378.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range:
+    U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/EOr0mi4hNtlgWNn9if640EZzXCo-f3fd018548.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/Y9k9QrlZAqio88Klkmbd8VoMQc-bb12e146ca.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M-ea808fe7d6.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range: U+370-3FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ-418c934c00.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range:
+    U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113,
+    U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4-d2835f64ba.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range:
+    U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F,
+    U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/b6Y37FthZeALduNqHicBT6FutY-22b5f26fb6.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  unicode-range:
+    U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,
+    U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c-9f76c3a5f7.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  unicode-range:
+    U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk-3be39f5de4.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/1K3W8DizY3v4emK8Mb08YHxTbs-be91894f01.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/tUSCtfYVM1I1IchuyCwz9gDdQ-974fd13b31.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  unicode-range: U+370-3FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/VgYFWiwsAC5OYxAycRXXvhze58-b6c8387871.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  unicode-range:
+    U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113,
+    U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/syRNPWzAMIrcJ3wIlPIP43KjQs-452fe1601f.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  unicode-range:
+    U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F,
+    U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/GIryZETIX4IFypco5pYZONKhJIo-bcff39a6db.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+  unicode-range:
+    U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,
+    U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/H89BbHkbHDzlxZzxi8uPzTsp90-e1fb1f6952.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  unicode-range:
+    U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/u6gJwDuwB143kpNK1T1MDKDWkMc-bba4fadd8b.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o-8e7d41d947.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw-7b05451fe6.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  unicode-range: U+370-3FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/WZ367JPwf9bRW6LdTHN8rXgSjw-78f4b8011b.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  unicode-range:
+    U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113,
+    U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/ia3uin3hQWqDrVloC1zEtYHWw-7342a84724.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  unicode-range:
+    U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F,
+    U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/2A4Xx7CngadFGlVV4xrO06OBHY-be47bff5d1.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  unicode-range:
+    U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,
+    U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/CfMzU8w2e7tHgF4T4rATMPuWosA-fb0edde261.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  unicode-range:
+    U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/867QObYax8ANsfX4TGEVU9YiCM-1a94ddb4e1.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/Oyn2ZbENFdnW7mt2Lzjk1h9Zb9k-4bca00b775.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/cdAe8hgZ1cMyLu9g005pAW3xMo-b3ddf3f2cc.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  unicode-range: U+370-3FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/DOfvtmE1UplCq161m6Hj8CSQYg-90f4958b2f.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  unicode-range:
+    U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113,
+    U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/pKRFNWFoZl77qYCAIp84lN1h944-c55f5a8ab7.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  unicode-range:
+    U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F,
+    U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/tKtBcDnBMevsEEJKdNGhhkLzYo-3fa31eded4.woff2');
+  font-display: swap;
+  font-style: italic;
+  font-weight: 400;
+  unicode-range:
+    U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,
+    U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU-58bbd52279.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  unicode-range:
+    U+460-52F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA-dbba5ba05c.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/oYaAX5himiTPYuN8vLWnqBbfD2s-8a68bceee1.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  unicode-range: U+1F00-1FFF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/lEJLP4R0yuCaMCjSXYHtJw72M-a8071e6b98.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  unicode-range: U+370-3FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ-44c62d91b0.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  unicode-range:
+    U+100-24F, U+259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113,
+    U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/yDtI2UI8XcEg1W2je9XPN3Noo-a113a1cb4f.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  unicode-range:
+    U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+2000-206F,
+    U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212,
+    U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter';
+  src: url('/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0-619644a6a4.woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  unicode-range:
+    U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0,
+    U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: 'Open Runde';
+  src: url('/assets/hG3wmGmFwadB6X5XPVXkMlmLr8o-0c87a61983.woff2');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Open Runde';
+  src: url('/assets/HJY4SY2JywrSZ2l1AEW9Tm9cO8-5cbd5a9ee9.woff2');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Open Runde';
+  src: url('/assets/3exmuO07FP19gMM08TQrpXl3BGQ-f502ec8527.woff2');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Dreelio Inter Placeholder';
+  src: local('Arial');
+  ascent-override: 89.79%;
+  descent-override: 22.36%;
+  line-gap-override: 0%;
+  size-adjust: 107.89%;
+}
+
+/* :where() stays weaker than the section classes, and still beats Tailwind preflight. */
+:where(.dreelio-root),
+:where(.dreelio-root) :where(*),
+:where(.dreelio-root) :where(*)::before,
+:where(.dreelio-root) :where(*)::after {
+  box-sizing: border-box;
+}
+
+:where(.dreelio-root)
+  :where(h1, h2, h3, h4, h5, h6, p, figure, blockquote, dl, dd, pre) {
+  margin: 0;
+}
+
+:where(.dreelio-root) :where(ul, ol) {
+  margin: 0;
+  padding: 0;
+}
+
+:where(.dreelio-root) :where(img, svg, video) {
+  display: block;
+  max-width: revert;
+  height: revert;
+}
+
+:where(.dreelio-root) :where([data-framecoded-svg] > svg) {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+:where(.dreelio-root) :where(a) {
+  color: inherit;
+  text-decoration: none;
+}
+
+:where(.dreelio-root) :where(button, input, select, textarea) {
+  font: inherit;
+  color: inherit;
+}
+
+@media (pointer: coarse) {
+  :where(.dreelio-root) :where([data-framecoded-cursor]) {
+    display: none !important;
+  }
+}
+
+:where(.dreelio-root) a[data-framer-page-link-current] {
+  color: var(
+    --framer-link-current-text-color,
+    var(--framer-link-text-color, inherit)
+  );
+}
+
+.dreelio-root {
+  min-height: 100vh;
+  overflow-x: clip;
+  background-color: rgb(156, 193, 231);
+  color: rgb(0, 0, 0);
+  color-scheme: light;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+}

@@ -1,0 +1,3301 @@
+.community2 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 0px;
+  row-gap: 0px;
+  column-gap: 0px;
+  place-content: center flex-start;
+  transform: none;
+  scroll-margin-top: 100px;
+}
+
+.stayInThe2 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  max-width: 952px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 56px;
+  row-gap: 56px;
+  column-gap: 56px;
+  place-content: center flex-start;
+}
+
+.stayInTheHeader {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  max-width: 800px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 20px;
+  row-gap: 20px;
+  column-gap: 20px;
+  place-content: center flex-start;
+}
+
+.community {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.community22 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(97, 74, 68);
+  color: rgb(97, 74, 68);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 15px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 125%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration-color: rgb(97, 74, 68);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(97, 74, 68);
+  -webkit-text-stroke-color: rgb(97, 74, 68);
+  border-top-color: rgb(97, 74, 68);
+  border-right-color: rgb(97, 74, 68);
+  border-bottom-color: rgb(97, 74, 68);
+  border-left-color: rgb(97, 74, 68);
+  outline-color: rgb(97, 74, 68);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.stayInTheLoop {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.h210 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 52px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 120%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: -0.03em;
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.cards3 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 24px;
+  row-gap: 24px;
+  column-gap: 24px;
+  place-content: flex-start;
+}
+
+.twitter {
+  display: contents;
+}
+
+.twitter2 {
+  position: relative;
+  width: 1px;
+  height: auto;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0px;
+  transform: none;
+}
+
+.twitter3 {
+  padding: 32px;
+  border-radius: 24px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 32px;
+  padding-right: 32px;
+  padding-bottom: 32px;
+  padding-left: 32px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 32px;
+  row-gap: 32px;
+  column-gap: 32px;
+  place-content: flex-start;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  backdrop-filter: blur(10px);
+}
+
+.twitter3::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgba(255, 255, 255, 0);
+  border-right-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(255, 255, 255, 0);
+  border-left-color: rgba(255, 255, 255, 0);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 0);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 0);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 0);
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 0);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: '';
+}
+
+.appLogoFollowText {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  place-content: center space-between;
+}
+
+.appLogo {
+  padding: 15px;
+  border-radius: 16px;
+  display: flex;
+  position: relative;
+  width: 64px;
+  height: 64px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center flex-start;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.twitterLogo {
+  inset: 0px;
+  border-radius: inherit;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.twitterLogo2 {
+  border-radius: inherit;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.p32KMembers {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre;
+  outline-width: initial;
+  transform: none;
+}
+
+.p152KFollowers {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(117, 113, 112);
+  color: rgb(117, 113, 112);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 15px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 125%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration-color: rgb(117, 113, 112);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(117, 113, 112);
+  -webkit-text-stroke-color: rgb(117, 113, 112);
+  border-top-color: rgb(117, 113, 112);
+  border-right-color: rgb(117, 113, 112);
+  border-bottom-color: rgb(117, 113, 112);
+  border-left-color: rgb(117, 113, 112);
+  outline-color: rgb(117, 113, 112);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.texts8 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: flex-start;
+}
+
+.discord {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.h53 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 140%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: -0.03em;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.stayUpdatedOn {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(69, 63, 61);
+  color: rgb(69, 63, 61);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 18px;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 150%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-decoration-color: rgb(69, 63, 61);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(69, 63, 61);
+  -webkit-text-stroke-color: rgb(69, 63, 61);
+  border-top-color: rgb(69, 63, 61);
+  border-right-color: rgb(69, 63, 61);
+  border-bottom-color: rgb(69, 63, 61);
+  border-left-color: rgb(69, 63, 61);
+  outline-color: rgb(69, 63, 61);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.h532 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 20px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 140%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: -0.03em;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  display: none;
+}
+
+.followUs {
+  position: relative;
+  width: auto;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.tertiary3 {
+  padding: 18px 24px;
+  border-radius: 100px;
+  display: flex;
+  position: relative;
+  width: min-content;
+  height: min-content;
+  padding-top: 18px;
+  padding-right: 24px;
+  padding-bottom: 18px;
+  padding-left: 24px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center;
+  color: rgb(0, 0, 238);
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  outline-color: rgb(0, 0, 238);
+  cursor: pointer;
+  text-decoration-thickness: initial;
+}
+
+.tertiary3::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(227, 225, 225);
+  border-right-color: rgb(227, 225, 225);
+  border-bottom-color: rgb(227, 225, 225);
+  border-left-color: rgb(227, 225, 225);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 238);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 238);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 238);
+  object-fit: fill;
+  cursor: pointer;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: '';
+}
+
+.textContainer11 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: min-content;
+  height: 19px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 0px;
+  row-gap: 0px;
+  column-gap: 0px;
+  place-content: center flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-color: rgb(0, 0, 238);
+}
+
+.getTemplate21 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+  transform-origin: 50% 50% 0px;
+}
+
+.followUs2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 1.2em;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.getTemplate22 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+  transform-origin: 50% 50% 0px;
+}
+
+.followUs3 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio2 {
+  display: none;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.stayUpdatedOn2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(69, 63, 61);
+  color: rgb(69, 63, 61);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 150%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-decoration-color: rgb(69, 63, 61);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(69, 63, 61);
+  -webkit-text-stroke-color: rgb(69, 63, 61);
+  border-top-color: rgb(69, 63, 61);
+  border-right-color: rgb(69, 63, 61);
+  border-bottom-color: rgb(69, 63, 61);
+  border-left-color: rgb(69, 63, 61);
+  outline-color: rgb(69, 63, 61);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.appLogoFollowText2 {
+  padding: 0px;
+  display: none;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  place-content: center space-between;
+}
+
+.appLogo2 {
+  padding: 15px;
+  border-radius: 16px;
+  display: flex;
+  position: relative;
+  width: 64px;
+  height: 64px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center flex-start;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.twitterLogo3 {
+  inset: 0px;
+  border-radius: inherit;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.twitterLogo4 {
+  border-radius: inherit;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.p32KMembers2 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre;
+  outline-width: initial;
+  transform: none;
+}
+
+.p152KFollowers2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(117, 113, 112);
+  color: rgb(117, 113, 112);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 15px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 125%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration-color: rgb(117, 113, 112);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(117, 113, 112);
+  -webkit-text-stroke-color: rgb(117, 113, 112);
+  border-top-color: rgb(117, 113, 112);
+  border-right-color: rgb(117, 113, 112);
+  border-bottom-color: rgb(117, 113, 112);
+  border-left-color: rgb(117, 113, 112);
+  outline-color: rgb(117, 113, 112);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.followUs4 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  display: none;
+}
+
+.tertiary32 {
+  padding: 18px 24px;
+  border-radius: 100px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 18px;
+  padding-right: 24px;
+  padding-bottom: 18px;
+  padding-left: 24px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center;
+  color: rgb(0, 0, 238);
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  outline-color: rgb(0, 0, 238);
+  cursor: pointer;
+  text-decoration-thickness: initial;
+}
+
+.tertiary32::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(227, 225, 225);
+  border-right-color: rgb(227, 225, 225);
+  border-bottom-color: rgb(227, 225, 225);
+  border-left-color: rgb(227, 225, 225);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 238);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 238);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 238);
+  object-fit: fill;
+  cursor: pointer;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: '';
+}
+
+.textContainer102 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: min-content;
+  height: 19px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 0px;
+  row-gap: 0px;
+  column-gap: 0px;
+  place-content: center flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-color: rgb(0, 0, 238);
+}
+
+.getTemplate192 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+}
+
+.followUs5 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 1.2em;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.getTemplate202 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+}
+
+.followUs6 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.youTube2 {
+  display: contents;
+}
+
+.youTube3 {
+  position: relative;
+  width: 1px;
+  height: auto;
+  flex-grow: 1;
+  flex-shrink: 0;
+  flex-basis: 0px;
+  transform: none;
+}
+
+.youTube4 {
+  padding: 32px;
+  border-radius: 24px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 32px;
+  padding-right: 32px;
+  padding-bottom: 32px;
+  padding-left: 32px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 32px;
+  row-gap: 32px;
+  column-gap: 32px;
+  place-content: flex-start;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  backdrop-filter: blur(10px);
+}
+
+.youTube4::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgba(255, 255, 255, 0);
+  border-right-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(255, 255, 255, 0);
+  border-left-color: rgba(255, 255, 255, 0);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 0);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 0);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 0);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 0);
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 0);
+  object-fit: fill;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: '';
+}
+
+.appLogoFollowText22 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  place-content: center space-between;
+}
+
+.appLogo22 {
+  padding: 15px;
+  border-radius: 16px;
+  display: flex;
+  position: relative;
+  width: 64px;
+  height: 64px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center flex-start;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.youTubeLogo {
+  inset: 0px;
+  border-radius: inherit;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.youTubeLogo2 {
+  border-radius: inherit;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.p32KMembers22 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre;
+  outline-width: initial;
+  transform: none;
+}
+
+.p32kSubscribers {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(117, 113, 112);
+  color: rgb(117, 113, 112);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 15px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 125%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration-color: rgb(117, 113, 112);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(117, 113, 112);
+  -webkit-text-stroke-color: rgb(117, 113, 112);
+  border-top-color: rgb(117, 113, 112);
+  border-right-color: rgb(117, 113, 112);
+  border-bottom-color: rgb(117, 113, 112);
+  border-left-color: rgb(117, 113, 112);
+  outline-color: rgb(117, 113, 112);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.texts9 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: flex-start;
+}
+
+.discord2 {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.h54 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 28px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 140%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: -0.03em;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio22 {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.tipsTutorialsAnd {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(69, 63, 61);
+  color: rgb(69, 63, 61);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 18px;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 150%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-decoration-color: rgb(69, 63, 61);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(69, 63, 61);
+  -webkit-text-stroke-color: rgb(69, 63, 61);
+  border-top-color: rgb(69, 63, 61);
+  border-right-color: rgb(69, 63, 61);
+  border-bottom-color: rgb(69, 63, 61);
+  border-left-color: rgb(69, 63, 61);
+  outline-color: rgb(69, 63, 61);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.h542 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 20px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 140%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: -0.03em;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+  display: none;
+}
+
+.subscribe {
+  position: relative;
+  width: auto;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.tertiary4 {
+  padding: 18px 24px;
+  border-radius: 100px;
+  display: flex;
+  position: relative;
+  width: min-content;
+  height: min-content;
+  padding-top: 18px;
+  padding-right: 24px;
+  padding-bottom: 18px;
+  padding-left: 24px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center;
+  color: rgb(0, 0, 238);
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  outline-color: rgb(0, 0, 238);
+  cursor: pointer;
+  text-decoration-thickness: initial;
+}
+
+.tertiary4::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(227, 225, 225);
+  border-right-color: rgb(227, 225, 225);
+  border-bottom-color: rgb(227, 225, 225);
+  border-left-color: rgb(227, 225, 225);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 238);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 238);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 238);
+  object-fit: fill;
+  cursor: pointer;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: '';
+}
+
+.textContainer12 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: min-content;
+  height: 19px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 0px;
+  row-gap: 0px;
+  column-gap: 0px;
+  place-content: center flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-color: rgb(0, 0, 238);
+}
+
+.getTemplate23 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+  transform-origin: 50% 50% 0px;
+}
+
+.subscribe2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 1.2em;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.getTemplate24 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+  transform-origin: 50% 50% 0px;
+}
+
+.subscribe3 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio23 {
+  display: none;
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  outline-width: initial;
+  transform: none;
+}
+
+.tipsTutorialsAnd2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(69, 63, 61);
+  color: rgb(69, 63, 61);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 150%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-decoration-color: rgb(69, 63, 61);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(69, 63, 61);
+  -webkit-text-stroke-color: rgb(69, 63, 61);
+  border-top-color: rgb(69, 63, 61);
+  border-right-color: rgb(69, 63, 61);
+  border-bottom-color: rgb(69, 63, 61);
+  border-left-color: rgb(69, 63, 61);
+  outline-color: rgb(69, 63, 61);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.appLogoFollowText23 {
+  padding: 0px;
+  display: none;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  place-content: center space-between;
+}
+
+.appLogo23 {
+  padding: 15px;
+  border-radius: 16px;
+  display: flex;
+  position: relative;
+  width: 64px;
+  height: 64px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center flex-start;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.youTubeLogo3 {
+  inset: 0px;
+  border-radius: inherit;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+
+.youTubeLogo4 {
+  border-radius: inherit;
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.p32KMembers23 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  white-space: pre;
+  outline-width: initial;
+  transform: none;
+}
+
+.p32kSubscribers2 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  caret-color: rgb(117, 113, 112);
+  color: rgb(117, 113, 112);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 15px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 125%;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration-color: rgb(117, 113, 112);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(117, 113, 112);
+  -webkit-text-stroke-color: rgb(117, 113, 112);
+  border-top-color: rgb(117, 113, 112);
+  border-right-color: rgb(117, 113, 112);
+  border-bottom-color: rgb(117, 113, 112);
+  border-left-color: rgb(117, 113, 112);
+  outline-color: rgb(117, 113, 112);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.subscribe4 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  display: none;
+}
+
+.tertiary42 {
+  padding: 18px 24px;
+  border-radius: 100px;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: min-content;
+  padding-top: 18px;
+  padding-right: 24px;
+  padding-bottom: 18px;
+  padding-left: 24px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 8px;
+  row-gap: 8px;
+  column-gap: 8px;
+  place-content: center;
+  color: rgb(0, 0, 238);
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  background-color: rgba(255, 255, 255, 0.1);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  outline-color: rgb(0, 0, 238);
+  cursor: pointer;
+  text-decoration-thickness: initial;
+}
+
+.tertiary42::after {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(227, 225, 225);
+  border-right-color: rgb(227, 225, 225);
+  border-bottom-color: rgb(227, 225, 225);
+  border-left-color: rgb(227, 225, 225);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  opacity: 1;
+  pointer-events: none;
+  display: block;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  overflow-x: visible;
+  overflow-y: visible;
+  visibility: visible;
+  content-visibility: visible;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: row;
+  flex-wrap: nowrap;
+  order: 0;
+  color: rgb(0, 0, 238);
+  font-family: sans-serif;
+  font-weight: 400;
+  text-align: start;
+  text-decoration-color: rgb(0, 0, 238);
+  text-decoration-style: solid;
+  text-overflow: clip;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-fill-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  -webkit-box-orient: horizontal;
+  background-repeat: repeat;
+  background-clip: border-box;
+  -webkit-background-clip: border-box;
+  outline-color: rgb(0, 0, 238);
+  object-fit: fill;
+  cursor: pointer;
+  transition-property: all;
+  transition-timing-function: ease;
+  animation-timing-function: ease;
+  animation-iteration-count: 1;
+  animation-play-state: running;
+  mask-mode: match-source;
+  mask-repeat: repeat;
+  mask-origin: border-box;
+  mask-clip: border-box;
+  mask-composite: add;
+  -webkit-mask-repeat: repeat;
+  -webkit-mask-origin: border-box;
+  -webkit-mask-clip: border-box;
+  -webkit-mask-composite: add;
+  clip-rule: nonzero;
+  transform-style: flat;
+  backface-visibility: visible;
+  list-style-type: disc;
+  list-style-position: outside;
+  content: '';
+}
+
+.textContainer112 {
+  padding: 0px;
+  display: flex;
+  position: relative;
+  width: min-content;
+  height: 19px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  gap: 0px;
+  row-gap: 0px;
+  column-gap: 0px;
+  place-content: center flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-color: rgb(0, 0, 238);
+}
+
+.getTemplate212 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+}
+
+.subscribe5 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  --framer-font-size: 16px;
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  --framer-line-height: 1.2em;
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  --framer-letter-spacing: 0em;
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+.getTemplate222 {
+  display: flex;
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(0, 0, 238);
+  flex-direction: column;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+  justify-content: flex-start;
+  place-content: normal flex-start;
+  text-decoration-color: rgb(0, 0, 238);
+  white-space: pre;
+  -webkit-text-stroke-color: rgb(0, 0, 238);
+  border-top-color: rgb(0, 0, 238);
+  border-right-color: rgb(0, 0, 238);
+  border-bottom-color: rgb(0, 0, 238);
+  border-left-color: rgb(0, 0, 238);
+  outline-width: initial;
+  outline-color: rgb(0, 0, 238);
+  transform: none;
+}
+
+.subscribe6 {
+  margin: 0px;
+  padding: var(
+    --framer-blockquote-text-background-padding,
+    var(--framer-text-background-padding, initial)
+  );
+  border-radius: var(
+    --framer-blockquote-text-background-radius,
+    var(--framer-text-background-radius, initial)
+  );
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: rgb(26, 22, 21);
+  color: rgb(26, 22, 21);
+  font-family: 'Open Runde', 'Open Runde Placeholder', sans-serif;
+  font-size: calc(
+    var(--framer-blockquote-font-size, var(--framer-font-size, 16px)) *
+      var(--framer-font-size-scale, 1)
+  );
+  font-weight: 600;
+  line-height: var(
+    --framer-blockquote-line-height,
+    var(--framer-line-height, 1.2em)
+  );
+  letter-spacing: var(
+    --framer-blockquote-letter-spacing,
+    var(--framer-letter-spacing, 0)
+  );
+  text-align: center;
+  text-decoration-color: rgb(26, 22, 21);
+  text-underline-offset: var(
+    --framer-blockquote-text-decoration-offset,
+    var(--framer-text-decoration-offset, initial)
+  );
+  -webkit-text-fill-color: rgb(26, 22, 21);
+  -webkit-text-stroke-color: rgb(26, 22, 21);
+  border-top-color: rgb(26, 22, 21);
+  border-right-color: rgb(26, 22, 21);
+  border-bottom-color: rgb(26, 22, 21);
+  border-left-color: rgb(26, 22, 21);
+  outline-color: rgb(26, 22, 21);
+  text-decoration-thickness: var(
+    --framer-blockquote-text-decoration-thickness,
+    var(--framer-text-decoration-thickness, initial)
+  );
+}
+
+@media (max-width: 1199px) {
+  .h210 {
+    --framer-font-size: 44px;
+    font-size: var(--framer-font-size, 44px);
+  }
+  .h53 {
+    --framer-font-size: 24px;
+    font-size: var(--framer-font-size, 24px);
+  }
+  .h54 {
+    --framer-font-size: 24px;
+    font-size: var(--framer-font-size, 24px);
+  }
+}
+
+@media (max-width: 809px) {
+  .stayInThe2 {
+    gap: 40px;
+    row-gap: 40px;
+    column-gap: 40px;
+  }
+  .h210 {
+    --framer-font-size: 28px;
+    font-size: var(--framer-font-size, 28px);
+  }
+  .cards3 {
+    flex-direction: column;
+  }
+  .twitter {
+    position: relative;
+    width: 100%;
+    height: auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    transform: none;
+    display: block;
+  }
+  .twitter2 {
+    padding: 32px;
+    border-radius: 24px;
+    display: flex;
+    width: 100%;
+    height: min-content;
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 32px;
+    row-gap: 32px;
+    column-gap: 32px;
+    place-content: flex-start;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    backdrop-filter: blur(10px);
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    transform: none;
+  }
+  .twitter2::after {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    border-left-color: rgba(255, 255, 255, 0);
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+    opacity: 1;
+    pointer-events: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    overflow-x: visible;
+    overflow-y: visible;
+    visibility: visible;
+    content-visibility: visible;
+    caret-color: rgb(0, 0, 0);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    order: 0;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: 400;
+    text-align: start;
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-style: solid;
+    text-overflow: clip;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-box-orient: horizontal;
+    background-repeat: repeat;
+    background-clip: border-box;
+    -webkit-background-clip: border-box;
+    outline-color: rgb(0, 0, 0);
+    object-fit: fill;
+    transition-property: all;
+    transition-timing-function: ease;
+    animation-timing-function: ease;
+    animation-iteration-count: 1;
+    animation-play-state: running;
+    mask-mode: match-source;
+    mask-repeat: repeat;
+    mask-origin: border-box;
+    mask-clip: border-box;
+    mask-composite: add;
+    -webkit-mask-repeat: repeat;
+    -webkit-mask-origin: border-box;
+    -webkit-mask-clip: border-box;
+    -webkit-mask-composite: add;
+    clip-rule: nonzero;
+    transform-style: flat;
+    backface-visibility: visible;
+    list-style-type: disc;
+    list-style-position: outside;
+    content: '';
+  }
+  .twitter3 {
+    padding: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    gap: 8px;
+    row-gap: 8px;
+    column-gap: 8px;
+    border-radius: 0;
+    background-color: transparent;
+  }
+  .appLogoFollowText {
+    display: none;
+  }
+  .texts8 {
+    height: auto;
+    place-content: normal flex-start;
+    white-space: pre-wrap;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    outline-width: initial;
+    transform: none;
+    padding: 0px;
+    gap: 0px;
+  }
+  .discord {
+    display: none;
+  }
+  .stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio {
+    display: none;
+  }
+  .h532 {
+    display: block;
+  }
+  .followUs {
+    display: none;
+  }
+  .stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio2 {
+    display: flex;
+  }
+  .appLogoFollowText2 {
+    display: flex;
+  }
+  .followUs4 {
+    display: block;
+  }
+  .youTube2 {
+    position: relative;
+    width: 100%;
+    height: auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    transform: none;
+    display: block;
+  }
+  .youTube3 {
+    padding: 32px;
+    border-radius: 24px;
+    display: flex;
+    width: 100%;
+    height: min-content;
+    padding-top: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 32px;
+    row-gap: 32px;
+    column-gap: 32px;
+    place-content: flex-start;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    backdrop-filter: blur(10px);
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    transform: none;
+  }
+  .youTube3::after {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    border-left-color: rgba(255, 255, 255, 0);
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
+    opacity: 1;
+    pointer-events: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    overflow-x: visible;
+    overflow-y: visible;
+    visibility: visible;
+    content-visibility: visible;
+    caret-color: rgb(0, 0, 0);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    order: 0;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: 400;
+    text-align: start;
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-style: solid;
+    text-overflow: clip;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+    -webkit-box-orient: horizontal;
+    background-repeat: repeat;
+    background-clip: border-box;
+    -webkit-background-clip: border-box;
+    outline-color: rgb(0, 0, 0);
+    object-fit: fill;
+    transition-property: all;
+    transition-timing-function: ease;
+    animation-timing-function: ease;
+    animation-iteration-count: 1;
+    animation-play-state: running;
+    mask-mode: match-source;
+    mask-repeat: repeat;
+    mask-origin: border-box;
+    mask-clip: border-box;
+    mask-composite: add;
+    -webkit-mask-repeat: repeat;
+    -webkit-mask-origin: border-box;
+    -webkit-mask-clip: border-box;
+    -webkit-mask-composite: add;
+    clip-rule: nonzero;
+    transform-style: flat;
+    backface-visibility: visible;
+    list-style-type: disc;
+    list-style-position: outside;
+    content: '';
+  }
+  .youTube4 {
+    padding: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    gap: 8px;
+    row-gap: 8px;
+    column-gap: 8px;
+    border-radius: 0;
+    background-color: transparent;
+  }
+  .appLogoFollowText22 {
+    display: none;
+  }
+  .texts9 {
+    height: auto;
+    place-content: normal flex-start;
+    white-space: pre-wrap;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    outline-width: initial;
+    transform: none;
+    padding: 0px;
+    gap: 0px;
+  }
+  .discord2 {
+    display: none;
+  }
+  .stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio22 {
+    display: none;
+  }
+  .h542 {
+    display: block;
+  }
+  .subscribe {
+    display: none;
+  }
+  .stayUpdatedOnNewFeaturesAndDiscoverHowOthersAreUsingFreelio23 {
+    display: flex;
+  }
+  .appLogoFollowText23 {
+    display: flex;
+  }
+  .subscribe4 {
+    display: block;
+  }
+}

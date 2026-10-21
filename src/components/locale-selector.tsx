@@ -48,7 +48,7 @@ export function LocaleSelector({
           </>
         )}
       </DropdownMenuTrigger>
-      <DropdownMenuContent align="end">
+      <DropdownMenuContent align="start">
         {locales.map((loc) => (
           <DropdownMenuItem
             key={loc}

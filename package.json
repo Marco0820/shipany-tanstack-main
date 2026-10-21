@@ -4,6 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "paraglide:compile": "paraglide-js compile --project ./project.inlang --outdir ./src/paraglide --output-structure message-modules --strategy url cookie baseLocale",
+    "predev": "pnpm paraglide:compile",
     "dev": "vite dev --port 3000",
     "prebuild": "node scripts/db-setup.mjs",
     "build": "vite build",
